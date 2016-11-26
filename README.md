@@ -1,4 +1,13 @@
 photobird
 =========
 
-A Symfony project created on November 22, 2016, 3:44 am.
+# Projet Symfony de gallerie photo.
+
+
+# Roadmap :
+
+- Architecture de la base
+- Listing des URLs
+- Routing
+- Controllers
+- Gestion du Front
