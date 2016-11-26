@@ -1,0 +1,7 @@
+pb_photo_homepage:
+    path:     /
+    defaults: { _controller: PBPhotoBundle:Default:index }
+
+upload_photo:
+    path:     /upload
+    defaults: { _controller: PBPhotoBundle:Upload:index }
