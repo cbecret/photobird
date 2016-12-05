@@ -1,3 +1,8 @@
+photos:
+    resource: "@PhotosBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 pb_photo:
     resource: "@PBPhotoBundle/Resources/config/routing.yml"
     prefix:   /
